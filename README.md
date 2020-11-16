@@ -18,8 +18,7 @@ Installation process, e.g. step by step instructions that I can run the project 
 ### Third party material: 
 Unity Template for Unity202015f1 (2D)
 
-### Project state: 
-5% 
+### Project state:  
 
 ### Limitations: 
 
